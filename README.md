@@ -1,7 +1,7 @@
 # AD-transferability
 Code for the paper - Quantifying Applicability Domain transferability using Tanimoto similarity: A toxicological perspective
 
-Python 3 notebook for this project is aavailable for download.
+Python 3 notebook for this project is available for download.
 
 To run code, select the required cell(s) in the notebook and run them.
 
