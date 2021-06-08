@@ -11,7 +11,10 @@ The Python 3 notebook for this project is available for download. The notebook c
 
 To run code, select the required cell(s)/code blocks in the notebook and run them.
 
-Fingerprint generator and Modeller code were taken from https://github.com/teha2/chemical_toxicology/tree/master/NeuralNetworks-March2020/Comparison%20Data
+Fingerprint generator and Modeller code were taken from:
+https://github.com/teha2/chemical_toxicology/tree/master/NeuralNetworks-March2020
 T. E. H. Allen, A. J. Wedlake, E. Gelžinytė, C. Gong, J. M. Goodman, S. Gutsell and P. J. Russell, Chem. Sci., 2020, 11, 7335–7348.
 
 Datasets used for this study were also taken from the above link/study.
+https://github.com/teha2/chemical_toxicology/tree/master/NeuralNetworks-March2020/Comparison%20Data
+T. E. H. Allen, A. J. Wedlake, E. Gelžinytė, C. Gong, J. M. Goodman, S. Gutsell and P. J. Russell, Chem. Sci., 2020, 11, 7335–7348.
