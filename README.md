@@ -13,6 +13,10 @@ The Python 3 notebook for this project is available for download. The notebook c
 
 To run code, select the required cell(s)/code blocks in the notebook and run them.
 
+The similarity indicator calculates the proportion of molecules in a dataset that is above the specified Tanimoto threshold with the other dataset and with the same active state.
+This is performed for the first dataset with the second dataset, and for the second dataset with the first dataset. The average similarity indicator takes the average of these two
+values.
+
 Fingerprint generator and Modeller code were taken from:
 https://github.com/teha2/chemical_toxicology/tree/master/NeuralNetworks-March2020
 T. E. H. Allen, A. J. Wedlake, E. Gelžinytė, C. Gong, J. M. Goodman, S. Gutsell and P. J. Russell, Chem. Sci., 2020, 11, 7335–7348.
