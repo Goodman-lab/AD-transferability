@@ -11,10 +11,10 @@ The Python 3 code for this project is available for download. The "Quantifying_A
  - For calculating similarities of specified targets vs all 79 targets (with Multiprocessing)
  - For scrubbing datasets
 
-The "Extract and calculate for PubChem data" notebook contains the following code for:
+The "Extraction and calculations for PubChem data" notebook contains the following code for:
  - Extracting and calculating similarities of PubChem data vs all 79 targets
 
-The "Extract and calculate for ChEMBL data" notebook contains the following code for:
+The "Extraction and calculations for ChEMBL data" notebook contains the following code for:
  - Extracting and calculating similarities of ChEMBL data vs all 79 targets
 
 To run code, select the required cell(s)/code blocks in the notebook and run them.
