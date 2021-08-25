@@ -1,9 +1,9 @@
 # AD-transferability
-Code for the paper - Quantifying Applicability Domain transferability using Tanimoto similarity: A toxicological perspective
+Code for the paper - Quantifying applicability domain transferability using Tanimoto similarity: A toxicological perspective
 
 Acknoweldgement of the authors are required when using the code partially or in full.
 
-The Python 3 code for this project is available for download. The "Quantifying_Applicability_Domain_transferability..." notebook contains the following code for:
+The Python 3 code for this project is available for download. The "Quantifying applicability domain transferability" notebook contains the following code for:
 
  - Fingerprint generator
  - Modeller
