@@ -3,13 +3,15 @@ Code for the paper - Quantifying Applicability Domain transferability using Tani
 
 Acknoweldgement of the authors are required when using the code partially or in full.
 
-The Python 3 notebook for this project is available for download. The notebook contains the following code for:
+The Python 3 code for this project is available for download. The AD-transferability notebook contains the following code for:
 
  - Fingerprint generator
  - Modeller
  - For calculating similarities of specified targets vs all 79 targets
  - For calculating similarities of specified targets vs all 79 targets (with Multiprocessing)
  - For scrubbing datasets
+
+
  - Extracting and calculating similarities of PubChem data vs all 79 targets
  - Extracting and calculating similarities of ChEMBL data vs all 79 targets
 
