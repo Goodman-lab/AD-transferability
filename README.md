@@ -10,6 +10,8 @@ The Python 3 notebook for this project is available for download. The notebook c
  - For calculating similarities of specified targets vs all 79 targets
  - For calculating similarities of specified targets vs all 79 targets (with Multiprocessing)
  - For scrubbing datasets
+ - Extracting and calculating similarities of PubChem data vs all 79 targets
+ - Extracting and calculating similarities of ChEMBL data vs all 79 targets
 
 To run code, select the required cell(s)/code blocks in the notebook and run them.
 
