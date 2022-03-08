@@ -19,9 +19,9 @@ The "Extraction and calculations for ChEMBL data" notebook contains the followin
 
 To run code, select the required cell(s)/code blocks in the notebook and run them.
 
-The similarity indicator calculates the proportion of molecules in a dataset that is above the specified Tanimoto threshold with the other dataset and with the same active state.
-This is performed for the first dataset with the second dataset, and for the second dataset with the first dataset. The average similarity indicator takes the average of these two
-values.
+The workflow calculates the proportion of molecules in a dataset that is above the specified Tanimoto threshold with the other dataset and with the same active state.
+This is performed for the first dataset with the second dataset, and for the second dataset with the first dataset. The average similarity between datasets is defined as the 
+average of these two values.
 
 Fingerprint generator and Modeller code were taken from:
 https://github.com/teha2/chemical_toxicology/tree/master/NeuralNetworks-March2020
