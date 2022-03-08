@@ -3,7 +3,7 @@ Code for the paper - Knowledge transfer between different human targets in predi
 
 Acknowledgement of the authors is required either when using the code partially or in full.
 
-The Python 3 code for this project is available for download. The "Quantifying applicability domain transferability" notebook contains the following code for:
+The Python 3 code for this project is available for download. The "Knowledge transfer" notebook contains the following code for:
 
  - Fingerprint generator
  - Modeller
