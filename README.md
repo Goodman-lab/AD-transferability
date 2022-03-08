@@ -1,5 +1,5 @@
-# AD-transferability
-Code for the paper - Quantifying applicability domain transferability using Tanimoto similarity: a toxicological perspective
+# Knowledge_transfer_with_Tanimoto_similarity
+Code for the paper - Knowledge transfer between different human targets in predictive toxcicology using Tanimoto similarity and machine learning
 
 Acknowledgement of the authors is required either when using the code partially or in full.
 
