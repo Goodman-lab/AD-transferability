@@ -1,7 +1,10 @@
 # Knowledge_transfer_with_Tanimoto_similarity
-Code for the paper - Knowledge transfer between different human targets in predictive toxcicology using Tanimoto similarity and machine learning
 
-Acknowledgement of the authors is required either when using the code partially or in full.
+The code in this repository supports the thesis by Wang Wei How Marcus titled "Machine learning in predictive toxicology: investigating developmental and reproductive toxicity with transfer learning"
+
+Code for chapter 3 of the thesis by Wang Wei How Marcus - Knowledge transfer between different human targets in predictive toxcicology using Tanimoto similarity and machine learning
+
+Acknowledgement of the authors and the thesis is appreciated either when using the code partially or in full.
 
 The Python 3 code for this project is available for download. The "Knowledge transfer" notebook contains the following code for:
 
